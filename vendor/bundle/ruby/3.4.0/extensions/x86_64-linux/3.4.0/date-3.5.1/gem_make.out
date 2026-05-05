@@ -1,0 +1,24 @@
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+/usr/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with -Werror... yes
+checking for altzone in time.h with -Werror... no
+creating Makefile
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n67du sitelibdir\=./.gem.20260504-53271-n67du clean
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n67du sitelibdir\=./.gem.20260504-53271-n67du
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n67du sitelibdir\=./.gem.20260504-53271-n67du install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20260504-53271-n67du
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n67du sitelibdir\=./.gem.20260504-53271-n67du clean

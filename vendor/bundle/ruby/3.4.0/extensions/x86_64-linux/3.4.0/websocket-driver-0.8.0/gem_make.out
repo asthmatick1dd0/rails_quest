@@ -1,0 +1,18 @@
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-ds5sr8 sitelibdir\=./.gem.20260504-53271-ds5sr8 clean
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-ds5sr8 sitelibdir\=./.gem.20260504-53271-ds5sr8
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-ds5sr8 sitelibdir\=./.gem.20260504-53271-ds5sr8 install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20260504-53271-ds5sr8
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-ds5sr8 sitelibdir\=./.gem.20260504-53271-ds5sr8 clean

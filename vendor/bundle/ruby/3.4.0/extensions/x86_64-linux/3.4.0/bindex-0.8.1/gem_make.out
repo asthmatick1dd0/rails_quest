@@ -1,0 +1,18 @@
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n3c98l sitelibdir\=./.gem.20260504-53271-n3c98l clean
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n3c98l sitelibdir\=./.gem.20260504-53271-n3c98l
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n3c98l sitelibdir\=./.gem.20260504-53271-n3c98l install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20260504-53271-n3c98l/skiptrace/internal
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-n3c98l sitelibdir\=./.gem.20260504-53271-n3c98l clean

@@ -1,0 +1,18 @@
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-vpx927 sitelibdir\=./.gem.20260504-53271-vpx927 clean
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-vpx927 sitelibdir\=./.gem.20260504-53271-vpx927
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-vpx927 sitelibdir\=./.gem.20260504-53271-vpx927 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260504-53271-vpx927/racc
+
+current directory: /home/sandazu/rails_quest/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260504-53271-vpx927 sitelibdir\=./.gem.20260504-53271-vpx927 clean
