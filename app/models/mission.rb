@@ -5,8 +5,8 @@ class Mission < ApplicationRecord
     assigned: "assigned",
     in_progress: "in_progress",
     completed: "completed"
-  }, validate: true
+  }
 
   validates :title, presence: true
-  validates :status, presence: true
+  validates :status, presence: true, inclusion: { in: statuses.keys }
 end
