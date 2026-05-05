@@ -1,11 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  codename: MyString
-  level: 1
-  active: false
+  codename: SolidSnake
+  level: 9
+  active: true
 
 two:
-  codename: MyString
-  level: 1
-  active: false
+  codename: BigBoss
+  level: 10
+  active: true
+
+three:
+  codename: GrayFox
+  level: 8
+  active: true

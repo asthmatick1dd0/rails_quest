@@ -2,10 +2,15 @@
 
 one:
   agent: one
-  title: MyString
-  status: MyString
+  title: Infiltrate Shadow Moses
+  status: assigned
 
 two:
   agent: two
-  title: MyString
-  status: MyString
+  title: Build Outer Heaven
+  status: in_progress
+
+three:
+  agent: three
+  title: Rescue hostages
+  status: completed

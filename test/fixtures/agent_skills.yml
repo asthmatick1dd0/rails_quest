@@ -7,3 +7,7 @@ one:
 two:
   agent: two
   skill: two
+
+three:
+  agent: three
+  skill: three
